@@ -1,0 +1,24 @@
+{
+    "name": "YTMUSIC",
+    "iconURL": "",
+    "tintColor": "FF0000",
+    "apps": [
+        
+        {
+	"bundleIdentifier" : "com.google.ios.youtubemusic","developerName" : "Ginsu",
+	"downloadURL" : "https://ipa.cypwn.xyz/ipas/YTMusicUltimate_v1.4.1_YTM6.03.1.ipa",
+	"iconURL" : "https://ipa.cypwn.xyz/serve/icons/YTMusicUltimate_v1.4.1_YTM6.03.1.png",
+	"localizedDescription" : "YTMusicUltimate 2.3.1 by Ginsu. Premium features unlocked.",
+	"name" : "YT Music Ultimate","screenshotURLs" : ["https://ipa.cypwn.xyz/serve/screenshots/YTMusicUltimate_v1.4.1_YTM6.03.1/YTMusicUltimate_v1.4.1_YTM6.03.1-0.png"],
+	"size" : 121573353,
+	"subtitle" : "YT Music Ultimate",
+	"tintColor" : "FF0000",
+	"version" : "2.3.1",
+	"versionDate" : "2025-06-06",
+	"versionDescription" : "",
+	"versions" : [{"date" : "2025-06-06","downloadURL" : "https://ipa.cypwn.xyz/ipas/YTMusicUltimate_v1.4.1_YTM6.03.1.ipa",
+	"localizedDescription" : "","size" : 121573353,"version" : "2.3.1"}]
+	}
+
+]
+}
