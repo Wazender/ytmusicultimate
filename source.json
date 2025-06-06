@@ -5,7 +5,6 @@
     "apps": [
         
         {
-	"version" : "2.3.1",
 	"bundleIdentifier" : "com.google.ios.youtubemusic","developerName" : "Ginsu",
 	"iconURL" : "https://ipa.cypwn.xyz//serve//icons//YTMusicUltimate_v1.4.1_YTM6.03.1.png",
 	"downloadURL" : "https://github.com/Wazender/ytmusicultimate/releases/download/v2.3.1/YTMusicUltimate-2.3.1.2.ipa",
