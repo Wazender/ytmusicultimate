@@ -6,8 +6,8 @@
         
         {
 	"bundleIdentifier" : "com.google.ios.youtubemusic","developerName" : "Ginsu",
-	"downloadURL" : "https://github.com/Wazender/ytmusicultimate/releases/download/v2.3.1/YTMusicUltimate-2.3.1.2.ipa",
 	"iconURL" : "https://ipa.cypwn.xyz/serve/icons/YTMusicUltimate_v1.4.1_YTM6.03.1.png",
+	"downloadURL" : "https://github.com/Wazender/ytmusicultimate/releases/download/v2.3.1/YTMusicUltimate-2.3.1.2.ipa",
 	"localizedDescription" : "YTMusicUltimate 2.3.1 by Ginsu. Premium features unlocked.",
 	"name" : "YT Music Ultimate","screenshotURLs" : ["https://ipa.cypwn.xyz/serve/screenshots/YTMusicUltimate_v1.4.1_YTM6.03.1/YTMusicUltimate_v1.4.1_YTM6.03.1-0.png"],
 	"size" : 121573353,
