@@ -7,7 +7,7 @@
         {
 	"bundleIdentifier" : "com.google.ios.youtubemusic",
 	"developerName" : "Ginsu",
-	"downloadURL" : "https://github.com/Wazender/ytmusicultimate/releases/download/v2.3.1/YTMusicUltimate-2.3.1.ipa",
+	"downloadURL" : "https://github.com/Wazender/YTMusicUltimateFork/releases/download/untagged-182b2eaabdf748cc47d4/YTMusicUltimate.ipa",
 	"iconURL" : "https://ipa.cypwn.xyz//serve//icons//YTMusicUltimate_v1.4.1_YTM6.03.1.png",
 	"localizedDescription" : "YT Music Ultimate",
 	"name" : "YT Music Ultimate",
@@ -17,7 +17,7 @@
 	"version" : "1.0.0",
 	"versionDate" : "2025-06-06",
 	"versionDescription" : "",
-	"versions" : [{"date" : "2025-06-06","downloadURL" : "https://github.com/Wazender/ytmusicultimate/releases/download/v2.3.1/YTMusicUltimate-2.3.1.ipa",
+	"versions" : [{"date" : "2025-06-06","downloadURL" : "https://github.com/Wazender/YTMusicUltimateFork/releases/download/untagged-182b2eaabdf748cc47d4/YTMusicUltimate.ipa",
 	"localizedDescription" : "",
 	"size" : 121573353,
 	"version" : "1.0.0"}]
